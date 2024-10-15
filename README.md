@@ -1,6 +1,6 @@
 ## 👨‍💻 Go Developer
 
-![Gopher](https://blog.golang.org/gophercolor.png)
+![Gopher](https://blog.golang.org/gopher/gopher.png)
 
 ### 🚀 Key Skills
 
