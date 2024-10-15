@@ -1,6 +1,6 @@
 ## 👨‍💻 Go Developer
 
-![Gopher](https://github.com/Golang-Resources/gopher/blob/master/2.0.png?raw=true)
+![Gopher](https://raw.githubusercontent.com/golang/go/master/doc/img/gopher.png)
 
 ### 🚀 Key Skills
 
