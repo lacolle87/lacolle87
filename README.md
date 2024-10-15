@@ -1,5 +1,7 @@
 ## 👨‍💻 Go Developer
 
+![Gopher](https://github.com/Golang-Resources/gopher/blob/master/2.0.png?raw=true)
+
 ### 🚀 Key Skills
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
