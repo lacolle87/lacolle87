@@ -1,6 +1,7 @@
 ## 👨‍💻 Go Developer
 
-![Gopher](https://img.shields.io/badge/Gopher-00ADD8?style=flat&logo=go&logoColor=white)
+![Gopher](https://raw.githubusercontent.com/golang/go/master/doc/img/gopher.png)
+
 
 ### 🚀 Key Skills
 
