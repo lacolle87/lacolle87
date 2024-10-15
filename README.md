@@ -3,7 +3,6 @@
 ### 🚀 Key Skills
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Gopher](https://img.shields.io/badge/-Gopher-00ADD8?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAABnZBStAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALyAAA C8gAXAihDAAAABl0RVh0Q3JlYXRpb24gVGltZQA1LzIwLzEzOMBg6gAAAhBJREFUaN7tWsFRwzAMhTZKQBEUgAfE3AYegkI9AQJgB3EAoICWETgA24B24Ac1CCPoA7AU7ADb3kny95r9w/t/v3z5cOgMAAAAAwHQeEfDhwJNAC/NpAKvMT8LsmWFAwV1CugHRmn9oDvFQYNAq9uRJQxbHlChfHYNAr80lQxayqNQKj1NUKaMr5drPfHbc2Hw4UgGwFH2l+JXiVgHpA9Q3h1m5YPgO1Dh9MPgNekOgNcoCECDYLyXYLPARykOpAfR1z8GbAVmRn+0GxZLDjOKFQA3bsbwTEBswHpGujlXXfoc0Km30W6BPI7nUux0AKvtxcqlxl1CA70GoykU6rGlToGcPB6Tl7ThQngHeuWwA7N9dJYVbNsEYID9PReoxW0+sNmA+RIZ3gD03Csxrl3loAV5U0h5A2ykB2gI3BSSppKyq6VzYjXK19ARwd1NcCOmQjYbvwogCflBLyVy9wLAAAAAElFTkSuQmCC)
 ![Gin](https://img.shields.io/badge/-Gin_Gonic-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
@@ -43,4 +42,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
