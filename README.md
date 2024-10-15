@@ -47,5 +47,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)
 
+Familiar with various tools and technologies to streamline development, ensure efficient collaboration, and deploy applications effectively.
+
+
+
 
 
