@@ -37,7 +37,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-- **Python**: Proficient in backend scripting and service development with Python.
+- **Python**: Proficient in backend and server scripting and service development with Python.
 - **Web Development**: Experience with **JavaScript**, **CSS**, **HTML**, and **React** for building dynamic web applications.
 
 ---
