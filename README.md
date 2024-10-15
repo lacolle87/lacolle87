@@ -14,11 +14,6 @@ I'm a software engineer specializing in **GoLang backend development**. I love b
 
 ## 📊 My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lacolle87&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE/)
-- [Twitter](https://twitter.com/YOUR_PROFILE/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lacolle87&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
