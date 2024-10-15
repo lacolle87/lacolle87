@@ -1,4 +1,5 @@
 ## 👨‍💻 Go Developer
+![Gopher](https://img.shields.io/badge/Gopher-00ADD8?style=flat&logo=go&logoColor=white)
 
 ![Gopher](https://blog.golang.org/gopher/gopher.png)
 
