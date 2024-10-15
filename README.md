@@ -12,7 +12,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-007EC6?style=flat&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 - **Go REST API Development**: Specializing in building RESTful services using **Go** and **Gin Gonic** for lightweight web frameworks.
 - **PostgreSQL**: Skilled in designing and managing relational databases.
