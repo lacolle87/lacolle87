@@ -3,6 +3,7 @@
 ### 🚀 Key Skills
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Gopher](https://img.shields.io/badge/-Gopher-00ADD8?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAABnZBStAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALyAAA C8gAXAihDAAAABl0RVh0Q3JlYXRpb24gVGltZQA1LzIwLzEzOMBg6gAAAhBJREFUaN7tWsFRwzAMhTZKQBEUgAfE3AYegkI9AQJgB3EAoICWETgA24B24Ac1CCPoA7AU7ADb3kny95r9w/t/v3z5cOgMAAAAAwHQeEfDhwJNAC/NpAKvMT8LsmWFAwV1CugHRmn9oDvFQYNAq9uRJQxbHlChfHYNAr80lQxayqNQKj1NUKaMr5drPfHbc2Hw4UgGwFH2l+JXiVgHpA9Q3h1m5YPgO1Dh9MPgNekOgNcoCECDYLyXYLPARykOpAfR1z8GbAVmRn+0GxZLDjOKFQA3bsbwTEBswHpGujlXXfoc0Km30W6BPI7nUux0AKvtxcqlxl1CA70GoykU6rGlToGcPB6Tl7ThQngHeuWwA7N9dJYVbNsEYID9PReoxW0+sNmA+RIZ3gD03Csxrl3loAV5U0h5A2ykB2gI3BSSppKyq6VzYjXK19ARwd1NcCOmQjYbvwogCflBLyVy9wLAAAAAElFTkSuQmCC)
 ![Gin](https://img.shields.io/badge/-Gin_Gonic-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
@@ -11,6 +12,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-007EC6?style=flat&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 - **Go REST API Development**: Specializing in building RESTful services using **Go** and **Gin Gonic** for lightweight web frameworks.
 - **PostgreSQL**: Skilled in designing and managing relational databases.
@@ -19,7 +22,9 @@
 - **Testing and Debugging**: Writing robust unit and integration tests to ensure high-quality code.
 - **API Documentation**: Using **Swagger/OpenAPI** to maintain comprehensive API documentation.
 - **CI/CD and Docker**: Setting up and managing CI/CD pipelines, containerizing applications with **Docker** for consistent deployments.
-- **Ubuntu Server Administration**: Automating server tasks, ensuring security, and system monitoring.
+- **Ubuntu & Linux Server Administration**: Automating server tasks, ensuring security, and system monitoring.
+
+---
 
 ### 🔧 Additional Technologies
 
@@ -27,17 +32,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 - **Python**: Proficient in backend scripting and service development with Python.
-- **Web Development**: Experience with **JavaScript**, **CSS**, and **HTML** for building responsive web applications.
-- **Redis**: Expertise in utilizing Redis for caching and in-memory key-value store systems.
+- **Web Development**: Experience with **JavaScript**, **CSS**, **HTML**, and **React** for building dynamic web applications.
 
-### 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide=html)
+---
 
 ### 🛠 Tools & Technologies I Use
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
