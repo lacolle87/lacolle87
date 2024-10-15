@@ -1,19 +1,43 @@
-# 👋 Hello, I'm [Your Name]!
+## 👨‍💻 Go Developer
 
-I'm a software engineer specializing in **GoLang backend development**. I love building efficient and scalable applications.
+### 🚀 Key Skills
 
-## 🛠️ My Tech Stack
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin_Gonic-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-007EC6?style=flat&logo=gitlab&logoColor=white)
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Go REST API Development**: Specializing in building RESTful services using **Go** and **Gin Gonic** for lightweight web frameworks.
+- **PostgreSQL**: Skilled in designing and managing relational databases.
+- **RabbitMQ Integration**: Expertise in configuring and managing messaging queues for distributed systems.
+- **Redis**: Handling caching and in-memory data stores using Redis.
+- **Testing and Debugging**: Writing robust unit and integration tests to ensure high-quality code.
+- **API Documentation**: Using **Swagger/OpenAPI** to maintain comprehensive API documentation.
+- **CI/CD and Docker**: Setting up and managing CI/CD pipelines, containerizing applications with **Docker** for consistent deployments.
+- **Ubuntu Server Administration**: Automating server tasks, ensuring security, and system monitoring.
 
-![Gin](https://img.shields.io/badge/-Gin-00A86B?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### 🔧 Additional Technologies
 
-## 📊 My GitHub Stats
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lacolle87&layout=compact&theme=radical)
+- **Python**: Proficient in backend scripting and service development with Python.
+- **Web Development**: Experience with **JavaScript**, **CSS**, and **HTML** for building responsive web applications.
+- **Redis**: Expertise in utilizing Redis for caching and in-memory key-value store systems.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lacolle87&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide=html)
+
+### 🛠 Tools & Technologies I Use
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
