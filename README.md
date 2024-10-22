@@ -40,6 +40,7 @@
 
 - **Python**: Proficient in backend and server scripting and service development with Python.
 - **Web Development**: Experience with **JavaScript**, **CSS**, **HTML**, and **React** for building dynamic web applications.
+- **ClickHouse**: Experience in using and maintaining ClickHouse.
 
 ---
 
