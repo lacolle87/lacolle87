@@ -36,6 +36,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-Database-blue.svg)
 
 - **Python**: Proficient in backend and server scripting and service development with Python.
 - **Web Development**: Experience with **JavaScript**, **CSS**, **HTML**, and **React** for building dynamic web applications.
