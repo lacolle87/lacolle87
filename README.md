@@ -89,8 +89,8 @@ Familiar with various tools and technologies to streamline development, ensure e
       <br />&nbsp;&nbsp;Redis&nbsp;&nbsp;
     </td>
     <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="45" height="45" />
-      <br />RabbitMQ
+      <img src="https://github.com/ClickHouse/clickhouse-js/blob/HEAD/.static/logo.svg" alt="ClickHouse" width="45" height="45" />
+      <br />ClickHouse
     </td>
   </tr>
   <tr>
@@ -123,13 +123,13 @@ Familiar with various tools and technologies to streamline development, ensure e
       <br />&nbsp;Grafana&nbsp;
     </td>
     <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="45" height="45" />
-      <br />Arduino
+      <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="45" height="45" />
+      <br />RabbitMQ
     </td>
     <td align="center" style="min-width: 90px;">
-      <img src="https://github.com/ClickHouse/clickhouse-js/blob/HEAD/.static/logo.svg" alt="ClickHouse" width="45" height="45" />
-      <br />ClickHouse
-    </td>
+      <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="45" height="45" />
+      <br />Arduino
+    </td>   
   </tr>
 </table>
 
