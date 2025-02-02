@@ -54,6 +54,8 @@
 
 Familiar with various tools and technologies to streamline development, ensure efficient collaboration, and deploy applications effectively.
 
+---
+
 <table>
   <tr>
     <td align="center" style="min-width: 90px;">
