@@ -107,33 +107,32 @@ Familiar with various tools and technologies to streamline development, ensure e
       <br />&nbsp;&nbsp;Nginx&nbsp;&nbsp;
     </td>
   </tr>
-<tr>
-  <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
-      <br />&nbsp;Docker&nbsp;
-    </td>
+  <tr>
     <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
-      <br />&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
-      <br />&nbsp;GitHub&nbsp;
-    </td>
-    
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="45" height="45" />
-      <br />&nbsp;Grafana&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="45" height="45" />
-      <br />RabbitMQ
-    </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="45" height="45" />
-      <br />Arduino
-    </td>   
-</tr> 
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
+        <br />&nbsp;Docker&nbsp;
+      </td>
+      <td align="center" style="min-width: 90px;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+        <br />&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
+      </td>
+      <td align="center" style="min-width: 90px;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+        <br />&nbsp;GitHub&nbsp;
+      </td>
+      <td align="center" style="min-width: 90px;">
+        <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="45" height="45" />
+        <br />&nbsp;Grafana&nbsp;
+      </td>
+      <td align="center" style="min-width: 90px;">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="45" height="45" />
+        <br />RabbitMQ
+      </td>
+      <td align="center" style="min-width: 90px;">
+        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="45" height="45" />
+        <br />Arduino
+      </td>   
+  </tr> 
 </table>
 
 
