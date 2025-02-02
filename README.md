@@ -52,6 +52,67 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)
 
+<table>
+  <tr>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="45" height="45" />
+      <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="45" />
+      <br />&nbsp;&nbsp;Redis&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="45" height="45" />
+      <br />RabbitMQ
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
+      <br />&nbsp;Python&nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
+      <br />JavaScript
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45" />
+      <br />&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45" />
+      <br />&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45" />
+      <br />&nbsp;&nbsp;Linux&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
+      <br />&nbsp;Docker&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+      <br />&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+      <br />&nbsp;GitHub&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=clickhouse" alt="ClickHouse" width="45" height="45" />
+      <br />ClickHouse
+    </td>
+  </tr>
+</table>
+
 Familiar with various tools and technologies to streamline development, ensure efficient collaboration, and deploy applications effectively.
 
 
