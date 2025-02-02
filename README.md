@@ -52,6 +52,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)
 
+Familiar with various tools and technologies to streamline development, ensure efficient collaboration, and deploy applications effectively.
+
 <table>
   <tr>
     <td align="center" style="min-width: 90px;">
@@ -106,14 +108,8 @@
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
       <br />&nbsp;GitHub&nbsp;
     </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=clickhouse" alt="ClickHouse" width="45" height="45" />
-      <br />ClickHouse
-    </td>
   </tr>
 </table>
-
-Familiar with various tools and technologies to streamline development, ensure efficient collaboration, and deploy applications effectively.
 
 
 
