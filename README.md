@@ -80,6 +80,8 @@ Familiar with various tools and technologies to streamline development, ensure e
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45" />
       <br />Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" style="min-width: 90px;">
       <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45" />
       <br />PostgreSQL
@@ -92,8 +94,6 @@ Familiar with various tools and technologies to streamline development, ensure e
       <img src="https://github.com/ClickHouse/clickhouse-js/blob/HEAD/.static/logo.svg" alt="ClickHouse" width="45" height="45" />
       <br />ClickHouse
     </td>
-  </tr>
-  <tr>
     <td align="center" style="min-width: 90px;">
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45" />
       <br />&nbsp;&nbsp;Linux&nbsp;&nbsp;
@@ -103,6 +103,12 @@ Familiar with various tools and technologies to streamline development, ensure e
       <br />&nbsp;Ubuntu&nbsp;
     </td>
     <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="45" height="45" />
+      <br />&nbsp;&nbsp;Nginx&nbsp;&nbsp;
+    </td>
+  </tr>
+<tr>
+  <td align="center" style="min-width: 90px;">
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
       <br />&nbsp;Docker&nbsp;
     </td>
@@ -114,10 +120,7 @@ Familiar with various tools and technologies to streamline development, ensure e
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
       <br />&nbsp;GitHub&nbsp;
     </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="45" height="45" />
-      <br />&nbsp;&nbsp;Nginx&nbsp;&nbsp;
-    </td>
+    
     <td align="center" style="min-width: 90px;">
       <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="45" height="45" />
       <br />&nbsp;Grafana&nbsp;
@@ -130,7 +133,7 @@ Familiar with various tools and technologies to streamline development, ensure e
       <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="45" height="45" />
       <br />Arduino
     </td>   
-  </tr>
+</tr> 
 </table>
 
 
