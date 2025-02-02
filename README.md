@@ -61,6 +61,26 @@ Familiar with various tools and technologies to streamline development, ensure e
       <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
+      <br />&nbsp;Python&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
+      <br />JavaScript
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45" />
+      <br />&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45" />
+      <br />&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45" />
+      <br />Bootstrap
+    </td>
+    <td align="center" style="min-width: 90px;">
       <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45" />
       <br />PostgreSQL
     </td>
@@ -72,34 +92,20 @@ Familiar with various tools and technologies to streamline development, ensure e
       <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="45" height="45" />
       <br />RabbitMQ
     </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
-      <br />&nbsp;Python&nbsp;&nbsp;
-    </td>
   </tr>
   <tr>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
-      <br />JavaScript
-    </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45" />
-      <br />&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-    <td align="center" style="min-width: 90px;">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45" />
-      <br />&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
     <td align="center" style="min-width: 90px;">
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45" />
       <br />&nbsp;&nbsp;Linux&nbsp;&nbsp;
     </td>
     <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="45" height="45" />
+      <br />&nbsp;Ubuntu&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
       <br />&nbsp;Docker&nbsp;
     </td>
-  </tr>
-  <tr>
     <td align="center" style="min-width: 90px;">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
       <br />&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
@@ -107,6 +113,18 @@ Familiar with various tools and technologies to streamline development, ensure e
     <td align="center" style="min-width: 90px;">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
       <br />&nbsp;GitHub&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="45" height="45" />
+      <br />&nbsp;&nbsp;Nginx&nbsp;&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="45" height="45" />
+      <br />&nbsp;Grafana&nbsp;
+    </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="45" height="45" />
+      <br />Arduino
     </td>
   </tr>
 </table>
