@@ -126,6 +126,10 @@ Familiar with various tools and technologies to streamline development, ensure e
       <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="45" height="45" />
       <br />Arduino
     </td>
+    <td align="center" style="min-width: 90px;">
+      <img src="https://github.com/ClickHouse/clickhouse-js/blob/HEAD/.static/logo.svg" alt="ClickHouse" width="45" height="45" />
+      <br />ClickHouse
+    </td>
   </tr>
 </table>
 
