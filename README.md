@@ -41,11 +41,13 @@ I have been developing seriously since 2022 and working with Go since 2023. My b
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 - **Python:** backend development, scripting, data processing, and ML-related tasks.
 - **JavaScript:** experience with web development and service integrations.
 - **CUDA:** GPU computing and experimentation with accelerated workloads.
 - **Arduino & ESP32:** hobbyist hardware and embedded development.
+- **React:** experience building dynamic and interactive user interfaces.
 - **C# and C++:** currently studying and expanding my systems programming knowledge.
 
 ---
