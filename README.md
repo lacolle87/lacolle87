@@ -1,4 +1,4 @@
-# 👨‍💻 Go Backend Developer
+# 👨‍💻 Backend Developer
 
 ![Gopher](https://img.shields.io/badge/Gopher-00ADD8?style=flat&logo=go&logoColor=white)
 
